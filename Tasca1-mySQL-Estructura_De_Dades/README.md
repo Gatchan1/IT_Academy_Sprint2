@@ -32,7 +32,7 @@ For each exercise in this task ("tasca"), it was required to deliver two things:
     - When a new customer arrives, store the customer who has recommended the establishment (as long as someone has recommended it).
     - Our system must indicate who has been the employee who has sold each glasses.
     
-- ## Exercise 1 - Pizzeria
+- ## Exercise 2 - Pizzeria
 
     They have hired you to design a website that allows you to place food orders at home online.
     
